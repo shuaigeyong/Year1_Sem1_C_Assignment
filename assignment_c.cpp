@@ -1,3 +1,6 @@
+//Author : Tan Chin Yong , Tang Lit Xuan
+//Date   : 7/2022-8/2022
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
